@@ -21,3 +21,7 @@ To use escalator:
 1. Add the contents of oneliner.sh to the end of a user's ~/.bashrc
 2. Change the log-file and C-2 as needed
 3. Wait for creds :)
+
+# Demo
+
+[![asciicast](https://asciinema.org/a/ZROs0ULUBD0I0z2vVfcvpEZtf.png)](https://asciinema.org/a/ZROs0ULUBD0I0z2vVfcvpEZtf)
